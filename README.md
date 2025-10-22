@@ -1,1 +1,1 @@
-# - [UpermT_T](https://github.com/GQFth/UprmT_T)
+# [CH](https://github.com/GQFth/UprmT_T)/[EN](https://github.com/GQFth/UprmT_T)
