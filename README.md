@@ -1,2 +1,32 @@
 [CN](README.md) / [EN](README_EN.md)
-## UprmT_T [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GQFth&repo=UprmT_T&theme=vue&show_owner=true)](https://github.com/GQFth/UprmT_T)
+
+## UprmT_T 
+
+CIFAR-10训练集 的 多模态模型， 用于识别图片，简单的模型架构， 让你快速入门
+
+## Usage
+
+
+## Why
+
+当我们学习 机器学习 的时候，我们可能会无从下手，但是官方文档太多太冗杂，很多逻辑会很难运用，是不利于我们学习的。
+
+我们应该以实践为主，理论为辅，而这个库的目的就是从最基础的模型架构开始，只留下核心逻辑，供大家学习。
+
+## How
+
+基于每个函数的功能点，一点一点的拆分出来。
+
+### Tasking
+
+#### runtime-core
+
+- [] 简单的CNN模型(用于物体识别，接机械臂控制)
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
