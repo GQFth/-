@@ -10,7 +10,9 @@
   <a href="https://huggingface.co/GQFth/Uprm-i1" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Uprm--i1-ffc107?style=flat" />
   </a>
-
+  <a >
+    [![](https://raw.githubusercontent.com/SwanHubX/assets/main/badge1.svg)](https://swanlab.cn/@020202/multimodal-object-detection/runs/u2nvr8dtqnfs7iv86r7xs/chart)
+  </a>
 </div>
 <h1 align="center">UprmT_T</h1>
 
