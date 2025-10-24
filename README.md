@@ -30,9 +30,9 @@ CIFAR-10训练集 的 多模态模型， 用于识别图片，简单的模型架
 
 基于每个函数的功能点，一点一点的拆分出来。
 
-### Tasking
+## task decomposition
 
-#### runtime-core
+#### runtime-core-1
 
 - [ ] 简单的CNN模型(用于物体识别，接机械臂控制)
 - [ ] 2
