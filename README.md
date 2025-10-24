@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="assets/log1.png" alt="UprmT_T AI" style="height: 100px; width: auto; max-width: 100%;" />
+  <img src="assets/log1.png" alt="UprmT_T AI" style="height: 150px; width: auto; max-width: 50%;" />
 </div>
 
 <h1 align="center">UprmT_T</h1>
