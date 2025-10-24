@@ -13,7 +13,7 @@
   <a href="https://swanlab.cn/@020202/multimodal-object-detection/runs/u2nvr8dtqnfs7iv86r7xs/chart" target="_blank">
     <img alt="SwanLab Experiment"  src="https://raw.githubusercontent.com/SwanHubX/assets/main/badge1.svg" />
   </a>
-  <a herf="https://github.com/GQFth/UprmT_T" target="_blank">
+  <a href="https://github.com/GQFth/UprmT_T" target="_blank">
     <img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" />
   </a>
 </div>
