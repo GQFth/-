@@ -2,9 +2,10 @@
 
 
 <div align="center">
-  <img src="assets/log1.png" alt="UprmT_T AI" width="150" />
-  <p><strong>UprmT_T</strong></p>
+  <img src="assets/log1.png" alt="UprmT_T AI" style="height: 150px; width: auto; max-width: 100%;" />
 </div>
+
+<h1 align="center">UprmT_T</h1>
 
 ## Usage
 
