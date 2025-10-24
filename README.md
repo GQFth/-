@@ -3,7 +3,7 @@
 <h1 align="center">UprmT_T</h1>
 
 <div align="center">
-  <img src="assets/logo.svg" width="60%" alt="UprmT_T AI" />
+  <img src="assets/log.png" width="60%" alt="UprmT_T AI" />
 </div>
 
 CIFAR-10训练集 的 多模态模型， 用于识别图片，简单的模型架构， 让你快速入门机器学习
