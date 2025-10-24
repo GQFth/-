@@ -7,8 +7,6 @@
 
 <h1 align="center">UprmT_T</h1>
 
-  
-</div>
 ## Usage
 
 CIFAR-10训练集 的 多模态模型， 用于识别图片，简单的模型架构， 让你快速入门机器学习
