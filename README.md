@@ -4,7 +4,14 @@
 <div align="center">
   <img src="assets/log1.png" alt="UprmT_T AI" style="height: 150px; width: auto; max-width: 50%;" />
 </div>
+<hr>
 
+<div align="center">
+  <a href="https://huggingface.co/GQFth/Uprm-i1" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Uprm--i1-ffc107?style=flat" />
+  </a>
+
+</div>
 <h1 align="center">UprmT_T</h1>
 
 ## Usage
