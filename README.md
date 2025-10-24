@@ -1,7 +1,7 @@
 [CN](README.md) / [EN](README_EN.md)
 
 <div align="center">
-## UprmT_T 
+# UprmT_T 
 </div>
 
 CIFAR-10训练集 的 多模态模型， 用于识别图片，简单的模型架构， 让你快速入门机器学习
