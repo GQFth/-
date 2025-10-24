@@ -7,6 +7,12 @@
 
 <h1 align="center">UprmT_T</h1>
 
+<div style="display: flex; align-items: center; background: #333; color: white; padding: 8px 16px; border-radius: 6px; font-family: Arial, sans-serif; max-width: fit-content;">
+  <span style="font-size: 20px; margin-right: 8px;">🤗</span>
+  <span style="margin-right: 12px; font-weight: bold;">Hugging Face</span>
+  <span style="background: #FFC107; color: #000; padding: 4px 10px; border-radius: 4px; font-weight: bold;">UprmT_T</span>
+  
+</div>
 ## Usage
 
 CIFAR-10训练集 的 多模态模型， 用于识别图片，简单的模型架构， 让你快速入门机器学习
