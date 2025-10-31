@@ -49,5 +49,13 @@ Based on the functional points of each function, they are gradually broken down 
   - [x] Build a CNN model based on the CIFAR-10 training set
   - [x] The model is overly dependent on text prompts. Add noise interference to force the model to learn image features
   - [ ] The designed CNN structure is too simple, resulting in some models still being unable to learn image features
-  - [ ] undetermined
+  - [ ] We increased the number of image feature extraction layers from 2 to 3 and added batch normalization (BN) layers, which improved the model's generalization capability and accelerated training. Additionally, we incorporated a pre-trained BERT text decoding model.
+
+  Issue identified: The CIFAR-10 training set is too small to effectively support multimodal model training, leading to poor image recognition performance during testing.
+  Future directions:  
+  - [ ] Adopt new pre-trained models  
+  - [ ] Use larger and more suitable training datasets  
+  - [ ] Explore new frameworks  
+  - [ ] Enhance the model’s logical reasoning capabilities  
+  - [ ] Improve the model’s text generation and comprehension abilities
 
